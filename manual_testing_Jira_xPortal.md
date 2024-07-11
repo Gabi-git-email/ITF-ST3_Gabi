@@ -1,14 +1,17 @@
-Testing Project for **Inserati aici numele aplicatiei pe care o testati**
+# Testing Project for xPortal
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: Inserati aici numele aplicatiei pe care o testati
+**Application under test:** xPortal.com
 
 Tools used: Jira, Zephyr Squad.
 
-Functional specifications:
-The below story (daca aveti mai multe scrieti stories) was created in Jira and describes the functional specifications of the "nume_modul" module, for which the final project is performed upon.
+### Functional specifications:
+The below story (daca aveti mai multe scrieti stories) was created in Jira and describes the functional specifications of the Wallet module, for which the final project is performed upon.
 
-inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
+You can find a example of one of the stories that were created in the picture below:
+
+![image](https://github.com/Gabi-git-email/ITF-ST3_Gabi/assets/174444760/51fbc529-57d2-477f-8f9d-1c46d1dda648)
+
 
 Here you can find the release that was created for this project:
 
