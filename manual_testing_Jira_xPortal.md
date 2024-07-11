@@ -20,33 +20,50 @@ Here you can find the release that was created for this project:
 ![image](https://github.com/Gabi-git-email/ITF-ST3_Gabi/assets/174444760/f3f5619b-46df-4637-8a0b-7e98fce5ddbc)
 
 
-## 2Testing process
+## 2.Testing process
 The test process was performed based on the standard test process as described below.
 
 ### 1.1 Test planning
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
+The Test Plan is designed to describe all details of testing for all the modules from the xPortal app.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare)
 
 #### 1.1.1. Roles asigned to the project and persons allocated
-(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)
+<table>
+<tr><td>Project manager -</td></tr> 
+<tr><td>Product owner   -</td></tr>
+<tr><td>Software developer -</td></tr>
+<tr><td>QA Engineer - Salca Gabriel</td></tr>
+</table>
 
-Project manager
-Product owner
-Software developer
-QA Engineer
 #### 1.1.2 Entry criteria defined
-(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)
+Entry Criteria: Specify conditions that must be met before testing begins, such as environment setup and data availability, business requirements are completed by the analysis team and are delivered to the appropriate testing team for evaluation;
 
 #### 1.1.3 Exit criteria defined
-(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)
+Exit Criteria: Define the conditions required to conclude testing, such as completion of all test cases and resolution of critical defects, 90%  or more of the tests are passed, no critical issues have status open, all detected errors have been reported and closed;
 
 #### 1.1.4 Test scope
-Tests in scope:
-(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+The functionalities in scope for testing include:
 
-Tests not in scope:
-(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+Account Registration/Login: Ensure secure and smooth user authentication;
+
+Wallet Management: Verify cryptocurrency storage and transfer 
+functionalities;
+
+Fiat-to-Crypto and Crypto-to-Crypto Exchange: Test exchange processes for accuracy and reliability;
+
+NFT send and receive : Test if the function is implemented for with accuracy and reliability;
+
+Messenger for application: so that user can chat in the ecosystem ;
+
+Security Features: Assess biometric and PIN authentication for user security;
+
+User Experience (UX) and User Interface (UI): Evaluate the application’s usability and design.
+
+
+##### Tests not in scope:
+
+We are not going to cover during the testing process any techniques related to whitebox testing
 
 #### 1.1.5 Risks detected
 Project risks:
