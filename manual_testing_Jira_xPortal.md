@@ -95,9 +95,11 @@ The following elements are needed to be ready before the test execution phase be
 ### 1.6. Test Execution
 Test cases are executed on the created test Cycle summary: (inserati aici numele cycle-ului pe care l-ati creat)
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: (inserati aici fisierul cu bug-urile pe care le-ati identificat)
+Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/Gabi-git-email/ITF-ST3_Gabi/blob/main/Jira_Bugs.doc)
 
-The following is a summary of the bugs that have been found (inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)
+The following is a summary of the bugs that have been found 
+
+![image](https://github.com/user-attachments/assets/b36d5abb-a288-4197-a2f1-0b5a5d33c0a4)
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
