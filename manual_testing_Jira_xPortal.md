@@ -67,10 +67,8 @@ We are not going to cover during the testing process any techniques related to w
 
 #### 1.1.5 Risks detected
 Project risks:
-(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)
-
-Product risks:
-(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)
+- displaying the data correctly.
+- avoiding errors in the process of completing transaction data.
 
 #### 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
@@ -79,11 +77,12 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 (inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
 
 ### 1.3 Test Analysis
-The testing process will be executed based on the application requirements. (The requirements analysis has been done in order to implement the early testing test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review).
+The testing process will be executed based on the application requirements. 
 
 The following test conditions were found:
 
-(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)
+![image](https://github.com/user-attachments/assets/7652bdfb-046d-4917-a1d0-9231b3de8cf6)
+
 
 ### 1.4 Test Design
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
