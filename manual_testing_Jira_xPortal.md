@@ -17,7 +17,7 @@ You can find a example of one of the stories that were created in the picture be
 
 Here you can find the release that was created for this project:
 
-![image](https://github.com/Gabi-git-email/ITF-ST3_Gabi/assets/174444760/f3f5619b-46df-4637-8a0b-7e98fce5ddbc)
+![image](https://github.com/user-attachments/assets/e48ba544-d3a7-429f-bedb-bdb2441b6422)
 
 
 ## 2.Testing process
@@ -90,10 +90,12 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 ### 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
-(inserati lista de elemente care sunt evaluate in etapa de implementare)
+- Test Data Preparation: Generate and validate test data.
+- Environment Setup: Ensure the test environment mimics the production setup to identify potential deployment issues early.
+
 
 ### 1.6. Test Execution
-Test cases are executed on the created test Cycle summary: (inserati aici numele cycle-ului pe care l-ati creat)
+Test cases are executed on the created test Cycle summary: Wallet and Insider(News)
 
 Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/Gabi-git-email/ITF-ST3_Gabi/blob/main/Jira_Bugs.doc)
 
