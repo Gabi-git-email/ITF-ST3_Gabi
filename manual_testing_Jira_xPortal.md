@@ -110,6 +110,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 ### 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here: 
+
 ![image](https://github.com/user-attachments/assets/d0743271-7d54-40b6-aaaa-44ea2488a34e)
 
 
@@ -117,9 +118,8 @@ Test execution chart was generated and can be found below.
 
 ![image](https://github.com/user-attachments/assets/fd7c6c10-23c4-4597-9d7a-b4034e0cc802)
 
-
 The final report shows that a number 10 tests have failed of a total of 1.
 
 A number of 2 total bugs were found, from which the priority is: 2 are high.
 
-(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
+The objective of this test is to ensure there are no bugs in the aplication and ensure the quality of the product. For the test scope a percentage of 80% was coverd, and all reported bugs where fix.
