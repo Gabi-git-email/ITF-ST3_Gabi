@@ -63,7 +63,7 @@ User Experience (UX) and User Interface (UI): Evaluate the application’s usabi
 
 ##### Tests not in scope:
 
-We are not going to cover during the testing process any techniques related to whitebox testing
+We are not going to cover during the testing process any techniques related to whitebox testing.
 
 #### 1.1.5 Risks detected
 Project risks:
