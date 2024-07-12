@@ -74,7 +74,9 @@ Project risks:
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ### 1.2 Test Monitoring and Control
-(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
+The moust important reason for monitoring and control, is visibility and transparency of the project and issue tracking management, with can be view in the below picture.
+
+![image](https://github.com/user-attachments/assets/ff39b7d3-d936-4fb0-a5fe-f453bf38e069)
 
 ### 1.3 Test Analysis
 The testing process will be executed based on the application requirements. 
