@@ -120,6 +120,6 @@ Test execution chart was generated and can be found below.
 
 The final report shows that a number 10 tests have failed of a total of 1.
 
-A number of 2 total bugs were found, from which the priority is: 2 are high.
+A number of 2 total bugs were found, from which the priority is: 2 are highest.
 
 The objective of this test is to ensure there are no bugs in the aplication and ensure the quality of the product. For the test scope a percentage of 80% was coverd, and all reported bugs where fix.
