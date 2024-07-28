@@ -30,35 +30,41 @@ The test plan that was created for this project can be found [here](https://gith
 
 #### 1.1.1. Roles asigned to the project and persons allocated
 <table>
-<tr><td>Project manager -</td></tr> 
-<tr><td>Product owner   -</td></tr>
-<tr><td>Software developer -</td></tr>
+<tr><td>Project manager - Mihai George </td></tr> 
+<tr><td>Product owner   - Alexandru Popescu </td></tr>
+<tr><td>Software developer - Traian Popescu </td></tr>
 <tr><td>QA Engineer - Salca Gabriel</td></tr>
 </table>
 
 #### 1.1.2 Entry criteria defined
 Entry Criteria: Specify conditions that must be met before testing begins, such as environment setup and data availability, business requirements are completed by the analysis team and are delivered to the appropriate testing team for evaluation;
+- Ensure that all business requirements for the 'Wallet' are tested.
+- Test environment setup: test environment includes integration with xPortal and at least one third-party exchange, ensuring complete end-to-end testing of functionalities.
 
 #### 1.1.3 Exit criteria defined
 Exit Criteria: Define the conditions required to conclude testing, such as completion of all test cases and resolution of critical defects, 90%  or more of the tests are passed, no critical issues have status open, all detected errors have been reported and closed;
 
+- Verify that all critical defects related to the 'Wallet and Insider(News)' are resolved and validated, with no open critical issues remaining.
+- Confirm that the app can handle at least 5.000 simultaneous users during peak load without performance degradation, and passes all security vulnerability tests.
+- Aplication is easy to navigate for new crypto users.
+
 #### 1.1.4 Test scope
-The functionalities in scope for testing include:
+- The functionalities in scope for testing include:
 
-Account Registration/Login: Ensure secure and smooth user authentication;
+- Account Registration/Login: Ensure secure and smooth user authentication;
 
-Wallet Management: Verify cryptocurrency storage and transfer 
+- Wallet Management: Verify cryptocurrency storage and transfer 
 functionalities;
 
-Fiat-to-Crypto and Crypto-to-Crypto Exchange: Test exchange processes for accuracy and reliability;
+- Fiat-to-Crypto and Crypto-to-Crypto Exchange: Test exchange processes for accuracy and reliability;
 
-NFT send and receive : Test if the function is implemented for with accuracy and reliability;
+- NFT send and receive : Test if the function is implemented for with accuracy and reliability;
 
-Messenger for application: so that user can chat in the ecosystem ;
+- Messenger for application: so that user can chat in the ecosystem ;
 
-Security Features: Assess biometric and PIN authentication for user security;
+- Security Features: Assess biometric and PIN authentication for user security;
 
-User Experience (UX) and User Interface (UI): Evaluate the application’s usability and design.
+- User Experience (UX) and User Interface (UI): Evaluate the application’s usability and design.
 
 
 ##### Tests not in scope:
@@ -74,7 +80,7 @@ Project risks:
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ### 1.2 Test Monitoring and Control
-The moust important reason for monitoring and control, is visibility and transparency of the project and issue tracking management, with can be view in the below picture.
+The most important reason for monitoring and control, is visibility and transparency of the project and issue tracking management, with can be view in the below picture.
 
 ![image](https://github.com/user-attachments/assets/ff39b7d3-d936-4fb0-a5fe-f453bf38e069)
 
@@ -107,7 +113,7 @@ The following is a summary of the bugs that have been found
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-### 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+### 1.7 Exit criteria were met as mentioned in the appropriate section, this feature is suggested in ‘ Wallet and Insider(News) ’ by the testing team
 
 The traceability matrix was generated and can be found here: 
 
