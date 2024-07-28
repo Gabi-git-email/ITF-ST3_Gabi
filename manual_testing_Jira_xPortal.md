@@ -42,7 +42,7 @@ Entry Criteria: Specify conditions that must be met before testing begins, such 
 - Test environment setup: test environment includes integration with xPortal and at least one third-party exchange, ensuring complete end-to-end testing of functionalities.
 
 #### 1.1.3 Exit criteria defined
-Exit Criteria: Define the conditions required to conclude testing, such as completion of all test cases and resolution of critical defects, 90%  or more of the tests are passed, no critical issues have status open, all detected errors have been reported and closed;
+Exit Criteria: Define the conditions required to conclude testing, such as completion of all test cases and resolution of critical defects, 90%  or more of the tests are passed, no critical issues have status open, all detected errors have been reported and closed.
 
 - Verify that all critical defects related to the 'Wallet and Insider(News)' are resolved and validated, with no open critical issues remaining.
 - Confirm that the app can handle at least 5.000 simultaneous users during peak load without performance degradation, and passes all security vulnerability tests.
@@ -73,8 +73,9 @@ We are not going to cover during the testing process any techniques related to w
 
 #### 1.1.5 Risks detected
 Project risks:
-- displaying the data correctly.
-- avoiding errors in the process of completing transaction data.
+- exceeding the budget, time delays and changes in requirements;
+- supplier dependency risks for mentaning the servers running;
+- problems integrating with old systems or platforms.
 
 #### 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
