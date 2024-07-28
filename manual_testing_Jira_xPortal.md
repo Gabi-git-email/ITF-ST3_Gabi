@@ -120,6 +120,9 @@ The traceability matrix was generated and can be found here:
 
 ![image](https://github.com/user-attachments/assets/d0743271-7d54-40b6-aaaa-44ea2488a34e)
 
+- Requirements ST3GS-12 and ST3GS-7 have associated tests and executions, these requirements have been addressed and tested within the project.
+- Requirements ST3GS-11, ST3GS-10, ST3GS-9, and ST3GS-8 have no associated tests or executions, which may indicate that these requirements have not yet been implemented or tested.
+- The ST3GS-7 requirement has identified defects that require remedial action before it can be considered fully implemented.
 
 Test execution chart was generated and can be found below.
 
