@@ -119,7 +119,8 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 The traceability matrix was generated and can be found here: 
 
-![image](https://github.com/user-attachments/assets/d0743271-7d54-40b6-aaaa-44ea2488a34e)
+![image](https://github.com/user-attachments/assets/d50f332e-21e4-4040-beb1-269f40b808da)
+
 
 - Requirements ST3GS-12 and ST3GS-7 have associated tests and executions, these requirements have been addressed and tested within the project.
 - Requirements ST3GS-11, ST3GS-10, ST3GS-9, and ST3GS-8 have no associated tests or executions, which may indicate that these requirements have not yet been implemented or tested.
