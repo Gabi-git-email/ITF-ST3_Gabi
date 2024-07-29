@@ -83,14 +83,15 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 ### 1.2 Test Monitoring and Control
 The most important reason for monitoring and control, is visibility and transparency of the project and issue tracking management, with can be view in the below picture.
 
-![image](https://github.com/user-attachments/assets/ff39b7d3-d936-4fb0-a5fe-f453bf38e069)
+![image](https://github.com/user-attachments/assets/3d65e39c-294c-483c-a2c6-476699f60a10)
+
 
 ### 1.3 Test Analysis
 The testing process will be executed based on the application requirements. 
 
 The following test conditions were found:
 
-![image](https://github.com/user-attachments/assets/7652bdfb-046d-4917-a1d0-9231b3de8cf6)
+![image](https://github.com/user-attachments/assets/dec1a285-8a85-4bae-8bce-6597d4d7116f)
 
 
 ### 1.4 Test Design
@@ -99,8 +100,8 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 ### 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
-- Test Data Preparation: Generate and validate test data.
-- Environment Setup: Ensure the test environment mimics the production setup to identify potential deployment issues early.
+- Test data preparation: Generate and validate test data.
+- Environment setup: Ensure the test environment mimics the production setup to identify potential deployment issues early.
 
 
 ### 1.6. Test Execution
