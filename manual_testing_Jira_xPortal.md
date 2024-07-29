@@ -130,7 +130,7 @@ Test execution chart was generated and can be found below.
 
 ![image](https://github.com/user-attachments/assets/fd7c6c10-23c4-4597-9d7a-b4034e0cc802)
 
-The final report shows that a number 10 tests have failed of a total of 1.
+The final report shows that a number 13 tests have failed of a total of 1.
 
 A number of 2 total bugs were found, from which the priority is: 2 are highest.
 
