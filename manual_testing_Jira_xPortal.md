@@ -39,7 +39,7 @@ The test plan that was created for this project can be found [here](https://gith
 #### 1.1.2 Entry criteria defined
 Entry Criteria: Specify conditions that must be met before testing begins, such as environment setup and data availability, business requirements are completed by the analysis team and are delivered to the appropriate testing team for evaluation;
 - Ensure that all business requirements for the 'Wallet' are tested.
-- Test environment setup: test environment includes integration with xPortal and at least one third-party exchange, ensuring complete end-to-end testing of functionalities.
+- Ensure that all business requirements for the 'Inside(news)' are tested.
 
 #### 1.1.3 Exit criteria defined
 Exit Criteria: Define the conditions required to conclude testing, such as completion of all test cases and resolution of critical defects, 90%  or more of the tests are passed, no critical issues have status open, all detected errors have been reported and closed.
