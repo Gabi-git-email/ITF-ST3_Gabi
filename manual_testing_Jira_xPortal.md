@@ -115,7 +115,8 @@ The following is a summary of the bugs that have been found
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-### 1.7 Exit criteria were met as mentioned in the appropriate section, this feature is suggested in ‘ Wallet and Insider(News) ’ by the testing team
+### 1.7 Exit criteria 
+As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
 
 The traceability matrix was generated and can be found here: 
 
